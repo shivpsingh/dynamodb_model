@@ -1,0 +1,9 @@
+# Folders to exclude
+
+dist
+build
+.vscode
+__pycache__
+venv
+
+# Files to exclude
